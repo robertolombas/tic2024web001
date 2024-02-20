@@ -1,0 +1,35 @@
+  body {
+      text-align: center;
+      background-color: #aeeeee; 
+    }
+    .bloque1, .bloque2 {
+      border: 2px solid;
+      margin: 10px 0;
+    }
+    .bloque1 {
+      background-color: gold;
+    }
+    .bloque2 {
+      background-color: silver;
+    }
+    img {
+      display: block;
+      margin: 0 auto;
+      width: 400px;
+    }
+    h1 {
+      text-align: left;
+    }
+    div {
+      width: 100%;
+      height: 100%;
+      text-align: left;
+      margin: 10px ;
+      
+}
+
+#mapa {
+   height: 800px;
+  
+  
+}
